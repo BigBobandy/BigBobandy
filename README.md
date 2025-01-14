@@ -6,4 +6,4 @@ I'm Jackson Dykes, a freelance web developer who recently graduated from Georgia
 
 🌐 Feel free to explore my portfolio at [jdykes.dev](https://www.jdykes.dev/) to see more of my work.
 
-🚀 Check out my GitHub to see what I've been working on. If you're interested in collaborating, don't hesitate to reach out!
+🚀 Check out my GitHub to see what I've been working on. 
